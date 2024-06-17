@@ -47,10 +47,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcanoix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arcanoix&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/arcanoix/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/arcanoix/github-stats-transparent/output/generated/languages.svg)
