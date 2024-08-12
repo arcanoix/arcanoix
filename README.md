@@ -45,5 +45,8 @@ Here are some ideas to get you started:
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcanoix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
+[![](https://visitcount.itsvg.in/api?id=arcanoix&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
 </p>
 
