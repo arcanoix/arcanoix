@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arcanoix&theme=dark" alt="GitHub Streak" /></a>
-  </div>
+  
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/arcanoix/github-readme-stats">
