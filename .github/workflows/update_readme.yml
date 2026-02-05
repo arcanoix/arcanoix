@@ -11,8 +11,8 @@ jobs:
       name: Update Profile README
 
       steps:
-          - uses: actions/checkout@3
+          - uses: actions/checkout@v6.0.2
 
-          - uses: jamesgeorge007/github-activity-readme@master
+          - uses: jamesgeorge007/github-activity-readme@v0.4.4
             env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                COMMIT_MSG: "update file readme"
