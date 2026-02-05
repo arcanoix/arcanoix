@@ -15,4 +15,4 @@ jobs:
 
           - uses: jamesgeorge007/github-activity-readme@v0.4.4
             env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                GITHUB_TOKEN: ${{ secrets.TOKEN_SECRET }}
