@@ -11,7 +11,7 @@ jobs:
       name: Update Profile README
 
       steps:
-          - uses: actions/checkout@4
+          - uses: actions/checkout@3
 
           - uses: jamesgeorge007/github-activity-readme@master
             env:
