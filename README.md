@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/TecnoFact/SDK-tecnofact-nodejs/issues/1) in [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs)
-2. 🔒 Closed issue [#1](https://github.com/TecnoFact/SDK-tecnofact-nodejs/issues/1) in [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs)
-3. 🗣 Commented on [#1](https://github.com/TecnoFact/SDK-tecnofact-nodejs/issues/1#issuecomment-5347215999) in [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs)
-4. 🔒 Closed issue [#1](https://github.com/TecnoFact/SDK-tecnofact-python/issues/1) in [TecnoFact/SDK-tecnofact-python](https://github.com/TecnoFact/SDK-tecnofact-python)
-5. 🎉 Merged PR [#9](https://github.com/TecnoFact/SDK-tecnofact-python/pull/9) in [TecnoFact/SDK-tecnofact-python](https://github.com/TecnoFact/SDK-tecnofact-python)
+1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(posts): update post details for AI software dev...`
+2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(portfolio): update project images and add Whats...`
+3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `fix(projects): update image paths for DgCost, DGBake...`
+4. ⭐ Starred [FrancescoStabile/numasec](https://github.com/FrancescoStabile/numasec)
+5. ⭐ Starred [Gentleman-Programming/gentle-pi](https://github.com/Gentleman-Programming/gentle-pi)
+6. 🍴 Forked [abi/screenshot-to-code](https://github.com/arcanoix/screenshot-to-code)
 <!--END_SECTION:activity-->
 
 ---

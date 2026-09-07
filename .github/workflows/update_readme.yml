@@ -2,7 +2,7 @@ name: Update Readme
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,7 +16,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Update Recent Activity
+        run: node .github/scripts/update_activity.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in README.md"
+          else
+            git commit -m "chore(profile): update recent activity"
+            git push
+          fi
 
