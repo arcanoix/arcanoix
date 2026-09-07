@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(posts): update post details for AI software dev...`
-2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(portfolio): update project images and add Whats...`
-3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `fix(projects): update image paths for DgCost, DGBake...`
-4. ⭐ Starred [FrancescoStabile/numasec](https://github.com/FrancescoStabile/numasec)
-5. ⭐ Starred [Gentleman-Programming/gentle-pi](https://github.com/Gentleman-Programming/gentle-pi)
-6. 🍴 Forked [abi/screenshot-to-code](https://github.com/arcanoix/screenshot-to-code)
+1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #83 from arcanoix/dependabot/npm_...`
+2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #85 from arcanoix/dependabot/npm_...`
+3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #84 from arcanoix/dependabot/npm_...`
+4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #81 from arcanoix/dependabot/npm_...`
+5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(posts): update post details for AI software dev...`
+6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(portfolio): update project images and add Whats...`
 <!--END_SECTION:activity-->
 
 ---
