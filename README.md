@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #83 from arcanoix/dependabot/npm_...`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #85 from arcanoix/dependabot/npm_...`
-3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #84 from arcanoix/dependabot/npm_...`
-4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #81 from arcanoix/dependabot/npm_...`
-5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(posts): update post details for AI software dev...`
-6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(portfolio): update project images and add Whats...`
+1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #87 from arcanoix/dependabot/npm_...`
+2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(projects): enhance ProjectCard with image dimen...`
+3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #88 from arcanoix/dependabot/npm_...`
+4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #80 from arcanoix/dependabot/npm_...`
+5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #82 from arcanoix/dependabot/npm_...`
+6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(projects): update project list with DgCost and ...`
 <!--END_SECTION:activity-->
 
 ---
