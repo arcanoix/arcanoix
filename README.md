@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `fix(deps): adapt @tanstack/react-table v9 breaking c...`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #95 from arcanoix/dependabot/npm_...`
-3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #94 from arcanoix/dependabot/npm_...`
-4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #92 from arcanoix/dependabot/npm_...`
-5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #90 from arcanoix/dependabot/npm_...`
-6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #89 from arcanoix/dependabot/npm_...`
+1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #96 from arcanoix/dependabot/npm_...`
+2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #93 from arcanoix/dependabot/npm_...`
+3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `fix(deps): adapt @tanstack/react-table v9 breaking c...`
+4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #95 from arcanoix/dependabot/npm_...`
+5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #94 from arcanoix/dependabot/npm_...`
+6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #92 from arcanoix/dependabot/npm_...`
 <!--END_SECTION:activity-->
 
 ---
