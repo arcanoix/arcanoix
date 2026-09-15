@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #96 from arcanoix/dependabot/npm_...`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #93 from arcanoix/dependabot/npm_...`
-3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `fix(deps): adapt @tanstack/react-table v9 breaking c...`
-4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #95 from arcanoix/dependabot/npm_...`
-5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #94 from arcanoix/dependabot/npm_...`
-6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #92 from arcanoix/dependabot/npm_...`
+1. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `Merge branch 'main' into dependabot/npm_and_yarn/typ...`
+2. 🔨 Pushed to [TecnoFact/SDK-tecnofact-net](https://github.com/TecnoFact/SDK-tecnofact-net): `Merge pull request #29 from TecnoFact/dependabot/nug...`
+3. 🔨 Pushed to [TecnoFact/SDK-Tecnofact-php](https://github.com/TecnoFact/SDK-Tecnofact-php): `Merge pull request #33 from TecnoFact/dependabot/com...`
+4. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/parser from...`
+5. 🔨 Pushed to [TecnoFact/SDK-tecnofact-net](https://github.com/TecnoFact/SDK-tecnofact-net): `Merge pull request #32 from TecnoFact/dependabot/git...`
+6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-net](https://github.com/TecnoFact/SDK-tecnofact-net): `Merge pull request #33 from TecnoFact/dependabot/nug...`
 <!--END_SECTION:activity-->
 
 ---
