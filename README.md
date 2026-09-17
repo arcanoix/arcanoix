@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/eslint-plug...`
-2. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump eslint from 10.8.1 to 10.10.0 ...`
-3. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `Merge branch 'main' into dependabot/npm_and_yarn/typ...`
-4. 🔨 Pushed to [TecnoFact/SDK-tecnofact-net](https://github.com/TecnoFact/SDK-tecnofact-net): `Merge pull request #29 from TecnoFact/dependabot/nug...`
-5. 🔨 Pushed to [TecnoFact/SDK-Tecnofact-php](https://github.com/TecnoFact/SDK-Tecnofact-php): `Merge pull request #33 from TecnoFact/dependabot/com...`
-6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/parser from...`
+1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `add multilanguage all pages`
+2. 🔨 Pushed to [TecnoFact/SDK-tecnofact-net](https://github.com/TecnoFact/SDK-tecnofact-net): `Merge pull request #26 from TecnoFact/dependabot/nug...`
+3. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/eslint-plug...`
+4. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump eslint from 10.8.1 to 10.10.0 ...`
+5. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `Merge branch 'main' into dependabot/npm_and_yarn/typ...`
+6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-net](https://github.com/TecnoFact/SDK-tecnofact-net): `Merge pull request #29 from TecnoFact/dependabot/nug...`
 <!--END_SECTION:activity-->
 
 ---
