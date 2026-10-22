@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [jub0t/Concat](https://github.com/arcanoix/Concat)
-2. ⭐ Starred [jub0t/Concat](https://github.com/jub0t/Concat)
-3. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/eslint-plug...`
-4. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump typescript-eslint from 8.67.0 ...`
-5. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `Merge branch 'main' into dependabot/npm_and_yarn/typ...`
-6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump typescript from 6.0.3 to 7.0.2...`
+1. 🔨 Pushed to [arcanoix/example-use-sdk-php-tecnofact](https://github.com/arcanoix/example-use-sdk-php-tecnofact): `Merge pull request #3 from arcanoix/dependabot/compo...`
+2. 🍴 Forked [jub0t/Concat](https://github.com/arcanoix/Concat)
+3. ⭐ Starred [jub0t/Concat](https://github.com/jub0t/Concat)
+4. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/eslint-plug...`
+5. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump typescript-eslint from 8.67.0 ...`
+6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `Merge branch 'main' into dependabot/npm_and_yarn/typ...`
 <!--END_SECTION:activity-->
 
 ---
