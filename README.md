@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/example-use-sdk-php-tecnofact](https://github.com/arcanoix/example-use-sdk-php-tecnofact): `Merge pull request #3 from arcanoix/dependabot/compo...`
-2. 🍴 Forked [jub0t/Concat](https://github.com/arcanoix/Concat)
-3. ⭐ Starred [jub0t/Concat](https://github.com/jub0t/Concat)
-4. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/eslint-plug...`
-5. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump typescript-eslint from 8.67.0 ...`
-6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `Merge branch 'main' into dependabot/npm_and_yarn/typ...`
+1. ❗ Opened issue [#106](https://github.com/arcanoix/dgbakerycake-recetario-app/issues/106) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+2. 🔨 Pushed to [arcanoix/example-use-sdk-php-tecnofact](https://github.com/arcanoix/example-use-sdk-php-tecnofact): `Merge pull request #3 from arcanoix/dependabot/compo...`
+3. 🍴 Forked [jub0t/Concat](https://github.com/arcanoix/Concat)
+4. ⭐ Starred [jub0t/Concat](https://github.com/jub0t/Concat)
+5. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump @typescript-eslint/eslint-plug...`
+6. 🔨 Pushed to [TecnoFact/SDK-tecnofact-nodejs](https://github.com/TecnoFact/SDK-tecnofact-nodejs): `chore(deps-dev): bump typescript-eslint from 8.67.0 ...`
 <!--END_SECTION:activity-->
 
 ---
