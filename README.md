@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `feat: enhance logo handling and PDF export functiona...`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge branch 'main' of github.com:arcanoix/dgbakeryc...`
-3. ❗ Opened issue [#106](https://github.com/arcanoix/dgbakerycake-recetario-app/issues/106) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
-4. 🔨 Pushed to [arcanoix/example-use-sdk-php-tecnofact](https://github.com/arcanoix/example-use-sdk-php-tecnofact): `Merge pull request #3 from arcanoix/dependabot/compo...`
-5. 🍴 Forked [jub0t/Concat](https://github.com/arcanoix/Concat)
-6. ⭐ Starred [jub0t/Concat](https://github.com/jub0t/Concat)
+1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `feat: add logo upload functionality for PDF reports ...`
+2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `feat: enhance logo handling and PDF export functiona...`
+3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge branch 'main' of github.com:arcanoix/dgbakeryc...`
+4. ❗ Opened issue [#106](https://github.com/arcanoix/dgbakerycake-recetario-app/issues/106) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+5. 🔨 Pushed to [arcanoix/example-use-sdk-php-tecnofact](https://github.com/arcanoix/example-use-sdk-php-tecnofact): `Merge pull request #3 from arcanoix/dependabot/compo...`
+6. 🍴 Forked [jub0t/Concat](https://github.com/arcanoix/Concat)
 <!--END_SECTION:activity-->
 
 ---
