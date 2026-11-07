@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge branch 'main' into dependabot/npm_and_yarn/nex...`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #109 from arcanoix/dependabot/npm...`
-3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #103 from arcanoix/dependabot/npm...`
-4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #110 from arcanoix/dependabot/npm...`
-5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #100 from arcanoix/dependabot/npm...`
-6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #108 from arcanoix/dependabot/npm...`
+1. 🚀 Released [v1.6.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.6.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+2. 🚀 Released [v1.5.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.5.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+3. 🚀 Released [v1.4.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.4.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #101 from arcanoix/dependabot/npm...`
+5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.3.0`
+6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `Merge pull request #104 from arcanoix/dependabot/npm...`
 <!--END_SECTION:activity-->
 
 ---
