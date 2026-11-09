@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.6.0`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.4.0`
-3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `feat(ventas): use address instead of phone in quick ...`
-4. 🚀 Released [v1.6.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.6.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
-5. 🚀 Released [v1.5.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.5.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
-6. 🚀 Released [v1.4.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.4.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.5.0`
+2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.6.0`
+3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.4.0`
+4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `feat(ventas): use address instead of phone in quick ...`
+5. 🚀 Released [v1.6.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.6.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+6. 🚀 Released [v1.5.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.5.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
 <!--END_SECTION:activity-->
 
 ---
