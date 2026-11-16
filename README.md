@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Herrera</h1>
-<h3 align="center">Senior Fullstack Developer & Software Engineer</h3>
+<h3 align="center">AI Senior Engineer</h3>
 
 <p align="center">
   Building robust web applications, scalable REST APIs, and distributed architectures for over 15 years.<br>
