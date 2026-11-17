@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.5.0`
-2. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.6.0`
-3. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.4.0`
-4. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `feat(ventas): use address instead of phone in quick ...`
-5. 🚀 Released [v1.6.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.6.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
-6. 🚀 Released [v1.5.0](https://github.com/arcanoix/dgbakerycake-recetario-app/releases/tag/v1.5.0) in [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app)
+1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(skills): add FastAPI, pgvector, Prompt Engineer...`
+2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): add hero role typewriter and fix core rada...`
+3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): upgrade HeroCorePanel with orbital nodes a...`
+4. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(profile): update role and experience to AI Engi...`
+5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.5.0`
+6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.6.0`
 <!--END_SECTION:activity-->
 
 ---
