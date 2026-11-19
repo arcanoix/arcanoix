@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(skills): add FastAPI, pgvector, Prompt Engineer...`
-2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): add hero role typewriter and fix core rada...`
-3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): upgrade HeroCorePanel with orbital nodes a...`
-4. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(profile): update role and experience to AI Engi...`
-5. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.5.0`
-6. 🔨 Pushed to [arcanoix/dgbakerycake-recetario-app](https://github.com/arcanoix/dgbakerycake-recetario-app): `chore(release): v1.6.0`
+1. 🍴 Forked [morluto/rea](https://github.com/arcanoix/rea)
+2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): redesign portfolio with senior technical l...`
+4. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(skills): add FastAPI, pgvector, Prompt Engineer...`
+5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): add hero role typewriter and fix core rada...`
+6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): upgrade HeroCorePanel with orbital nodes a...`
 <!--END_SECTION:activity-->
 
 ---
