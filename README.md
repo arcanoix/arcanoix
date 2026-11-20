@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [morluto/rea](https://github.com/arcanoix/rea)
-2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): redesign portfolio with senior technical l...`
-4. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(skills): add FastAPI, pgvector, Prompt Engineer...`
-5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): add hero role typewriter and fix core rada...`
-6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): upgrade HeroCorePanel with orbital nodes a...`
+1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `(style) apply style visual with codex`
+2. 🍴 Forked [morluto/rea](https://github.com/arcanoix/rea)
+3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+4. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): redesign portfolio with senior technical l...`
+5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(skills): add FastAPI, pgvector, Prompt Engineer...`
+6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): add hero role typewriter and fix core rada...`
 <!--END_SECTION:activity-->
 
 ---
