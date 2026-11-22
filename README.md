@@ -50,12 +50,12 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev)
-2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `(style) apply style visual with codex`
-3. 🍴 Forked [morluto/rea](https://github.com/arcanoix/rea)
-4. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(ui): redesign portfolio with senior technical l...`
-6. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(skills): add FastAPI, pgvector, Prompt Engineer...`
+1. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `update file README.md`
+2. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `feat(hero): add periodic Arcanoix name glitch`
+3. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `fix(deps): upgrade Astro to resolve npm audit findings`
+4. ⭐ Starred [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev)
+5. 🔨 Pushed to [arcanoix/gustavoherrera.dev](https://github.com/arcanoix/gustavoherrera.dev): `(style) apply style visual with codex`
+6. 🍴 Forked [morluto/rea](https://github.com/arcanoix/rea)
 <!--END_SECTION:activity-->
 
 ---
